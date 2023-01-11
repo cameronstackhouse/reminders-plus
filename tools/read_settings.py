@@ -1,5 +1,6 @@
 """
-
+Module containing functions to read and processing settings
+stored in the program json file "settings.json"
 """
 
 import json
